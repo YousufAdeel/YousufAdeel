@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h2 align="left">Hello World! I'm Yousuf Adeel👋:</h2>
+<h1 align="left">Hi there, I'm Yousuf 👋</h1>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">👨‍💻 About me:</h2>
+<h1 align="left">👨‍💻 About me:</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h1 align="left">💻 Tech Stack:</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<h2 align="left">🌐 Socials:</h2>
+<h1 align="left">🌐 Socials:</h1>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<h2 align="left">📊 Github Stats:</h2>
+<h1 align="left">📊 Github Stats:</h1>
 
 ###
 
