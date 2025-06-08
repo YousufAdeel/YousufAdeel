@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• I am a Computer Science student currently expanding my knowledge in both back-end and front-end development.<br><br>• 📫 Reach out to me at: yousufadeeledu@gmail.com</p>
+<p align="left">• I am a Computer Science student currently expanding my knowledge in both back-end and front-end development.<br>• 📫 Reach out to me at: yousufadeeledu@gmail.com</p>
 
 ###
 
