@@ -1,16 +1,12 @@
-<br clear="both">
-
 <h1 align="center">Hi there, I'm Yousuf 👋</h1>
 
 ###
-
-<br clear="both">
 
 <h1 align="left">👨‍💻 About me:</h1>
 
 ###
 
-<p align="left">I am a Computer Science student currently expanding my knowledge in both back-end and front-end development.</p>
+<p align="left">• I am a Computer Science student currently expanding my knowledge in both back-end and front-end development.<br><br>• 📫 Reach out to me at: yousufadeeledu@gmail.com</p>
 
 ###
 
@@ -19,8 +15,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 align="left">💻 Tech Stack:</h1>
 
@@ -36,18 +30,13 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="left">🌐 Socials:</h1>
 
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/YousufAdeel" target="_blank">
+  <a href="https://www.linkedin.com/in/YousufAdeel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="yousufadeeledu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
   <a href="https://x.com/Tekkers1x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
@@ -55,8 +44,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 align="left">📊 Github Stats:</h1>
 
